@@ -24,7 +24,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("dsfsdf")
-    print("dfsdsfsedfsf")
-    print("sdtgfdfgdfgdfgfeggdfg")
+    print("dsfsdf-main-push")
+    print("dfsdsfsedfsf-main")
+    print("sdtgfdfgdfgdfgfeggdfg-updated")
     print("dev测试")
